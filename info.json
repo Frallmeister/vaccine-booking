@@ -1,0 +1,31 @@
+{
+    "drivein": {
+        "slots_available": false
+    },
+    "vgregion": {
+        "slots": {
+            "Bengtsfors: N\u00e4rh\u00e4lsan B\u00e4ckefors Dalslands Sjukhus": "https://e-tjanster.1177.se/mvk/scheduling/tbMakeValidation.xhtml?hsaid=SE2321000131-E000000002032&dynamicid=bb0225fc-7c37-47c1-8558-ddb991501c2c"
+        }
+    },
+    "skip_time": [
+        [
+            9,
+            0,
+            9,
+            30
+        ],
+        [
+            10,
+            30,
+            11,
+            0
+        ],
+        [
+            12,
+            30,
+            14,
+            30
+        ]
+    ],
+    "last_check": "2021-07-02 01:28"
+}
